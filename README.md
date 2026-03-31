@@ -22,7 +22,7 @@ Windows : VS Code, PyCharm
 macOS : VS Code, PyCharm, BBEdit
 
 📁 Structure du Projet
-main.py : Point d'entrée principal de l'IA.
+NayIA-2.1.py : Point d'entrée principal de l'IA.
 modules/ : Dossier contenant les différentes capacités de NayIA.
 config.json : Paramètres de personnalisation.
 🚀 À venir
@@ -34,3 +34,5 @@ Correction de bugs sur le tutoiement/vouvoiement.
 Optimisation de la vitesse de réponse.
 Mise à jour de la liste de compatibilité des IDE.
 Développé par Nayane Ahamadi et Lucas Dulard– Fait pour évoluer.
+
+Créez un dossier "Mods" sinon les mods pre-installés ne marchent pas puis mettez les mods a l'intérieur du dossier 
