@@ -1,0 +1,141 @@
+# Aliments - corrections courantes
+piza:pizza
+pizaa:pizza
+pizzz:a pizza
+burgr:burger
+burgeer:burger
+frite:frites
+frittes:frites
+spageti:spaghetti
+spagheti:spaghetti
+lasgane:lasagne
+lasagna:lasagne
+rizr:riz
+rizz:riz
+poulett:poulet
+poullet:poulet
+steack:steak
+steeak:steak
+poissson:poisson
+poissonn:poisson
+sushi:sushi
+sushii:sushi
+ramenn:ramen
+rammen:ramen
+currie:curry
+curi:curry
+nems:nems
+nemss:nems
+salat:salade
+saladd:salade
+frut:fruit
+fruut:fruit
+legume:legumes
+leguume:legumes
+glase:glace
+glacce:glace
+gateaux:gateau
+gateauu:gateau
+creppe:crepe
+creep:crepe
+choclat:chocolat
+chocolattt:chocolat
+donut:donut
+donuut:donut
+cokie:cookie
+cooki:cookie
+
+# Boissons
+eauu:eau
+eauuu:eau
+sodaa:soda
+sodaaa:soda
+jusss:jus
+juss:jus
+laitt:lait
+laittt:lait
+caffee:cafe
+cafee:cafe
+thee:the
+theee:the
+
+# Repas et commandes
+faim:faim
+manger:manger
+repas:repas
+menu:menu
+dessert:dessert
+petitdej:petitdej
+dejeuner:dejeuner
+diner:diner
+snack:snack
+gouter:gouter
+
+# Autres corrections fréquentes
+okk:ok
+oui:oui
+non:non
+merci:merci
+
+# Plats supplémentaires
+quiche:quiche
+tartine:tartine
+croissant:croissant
+baguette:baguette
+muffin:muffin
+brownie:brownie
+pancake:pancake
+waffle:waffle
+lasagnette:lasagnette
+cannelé:cannelé
+gnocchi:gnocchi
+paella:paella
+pizza_calzone:calzone
+burger_veggie:burger veggie
+hotpot:hotpot
+fondue:fondue
+
+# Fruits supplémentaires
+cerise:cerise
+fraise:fraise
+myrtille:myrtille
+framboise:framboise
+kiwi:kiwi
+mangue:mangue
+ananas:ananas
+pamplemousse:pamplemousse
+melon:melon
+pastèque:pasteque
+raisin:raisin
+
+# Légumes supplémentaires
+tomate:tomate
+carotte:carotte
+courgette:courgette
+aubergine:aubergine
+poivron:poivron
+brocoli:brocoli
+epinard:epinard
+champignon:champignon
+oignon:oignon
+ail:ail
+
+# Desserts supplémentaires
+tiramisu:tiramisu
+flan:flan
+pudding:pudding
+soufflé:souffle
+cannoli:cannoli
+macaron:macaron
+cheesecake:cheesecake
+moelleux:moelleux
+
+# Boissons supplémentaires
+smoothie:smoothie
+milkshake:milkshake
+limonade:limonade
+cocktail:cocktail
+thé_glacé:the glace
+chocolat_chaud:chocolat chaud
+bière:bierre
+vin:vin
