@@ -35,7 +35,7 @@ Optimisation de la vitesse de réponse.
 Mise à jour de la liste de compatibilité des IDE.
 Développé par Nayane Ahamadi et Lucas Dulard– Fait pour évoluer.
 
-Créez un dossier "Mods" sinon les mods pre-installés ne marchent pas puis mettez les mods a l'intérieur du dossier 
+Ceci est une version *early Access* il est sous licence **All right reserved** jusqu'au 29 mai puis en licence CC BY-NC 4.0
 
 contact: **asponeproduction@gmail.com**
 (s'il vous plaît tutoyez moi car je n'aime pas quand on me vouvoie)
