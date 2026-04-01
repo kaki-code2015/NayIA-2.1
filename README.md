@@ -36,3 +36,6 @@ Mise à jour de la liste de compatibilité des IDE.
 Développé par Nayane Ahamadi et Lucas Dulard– Fait pour évoluer.
 
 Créez un dossier "Mods" sinon les mods pre-installés ne marchent pas puis mettez les mods a l'intérieur du dossier 
+
+contact: **asponeproduction@gmail.com**
+(s'il vous plaît tutoyez moi car je n'aime pas quand on me vouvoie)
