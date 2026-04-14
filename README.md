@@ -1,41 +1,80 @@
-# NayIA-2.1
-NayIA 2.1 🚀
-NayIA est un assistant intelligent développé en Python, conçu pour être léger, polyvalent et adaptable sur plusieurs plateformes (PC, Tablette, Mobile). La version 2.1 apporte des améliorations sur la structure du code et la compatibilité avec différents environnements de développement.
-🌟 Fonctionnalités
-Interpréteur intelligent : Gestion optimisée des requêtes utilisateur.
-Multi-plateforme : Testé et fonctionnel sur Windows, macOS, Android (via Pydroid 3/Termux) et iOS.
-Modularité : Code structuré pour permettre l'ajout facile de nouveaux modules.
-Légèreté : Consomme peu de ressources, idéal pour les tablettes (comme Goodtel).
-🛠️ Installation
-Sur Ordinateur (Windows / macOS / Linux)
+# 🤖 NayIA 2.1
 
-Sur Android (Tablette / Smartphone)
-Installe un IDE depuis le Play Store.
-Copie les fichiers de NayIA dans le stockage de ta tablette.
-Ouvre main.py dans Pydroid 3 et appuie sur le bouton Play.
-💻 IDE Recommandés
+NayIA est un assistant intelligent développé en Python, conçu pour être léger, polyvalent et adaptable sur plusieurs plateformes (PC, tablette, mobile).
 
-Plateforme IDE suggérés
-Android : Pydroid 3, pycode
-iOS : Pythonista 3, Pyto
-Windows : VS Code, PyCharm
-macOS : VS Code, PyCharm, BBEdit
+La version 2.1 améliore la structure du code, les performances et la compatibilité avec différents environnements.
 
-📁 Structure du Projet
-NayIA-2.1.py : Point d'entrée principal de l'IA.
-modules/ : Dossier contenant les différentes capacités de NayIA.
-config.json : Paramètres de personnalisation.
-🚀 À venir
-[ ] Interface graphique (GUI) améliorée.
-[ ] Intégration de commandes vocales.
-[ ] Meilleure gestion de la mémoire sur tablette.
-📝 Notes de version (v2.1)
-Correction de bugs sur le tutoiement/vouvoiement.
-Optimisation de la vitesse de réponse.
-Mise à jour de la liste de compatibilité des IDE.
-Développé par Nayane Ahamadi et Lucas Dulard– Fait pour évoluer.
+---
 
-Ceci est une version *early Access* il est sous licence **All right reserved** jusqu'au 29 mai puis en licence CC BY-NC 4.0
+## 🌟 Fonctionnalités
 
-contact: **asponeproduction@gmail.com**
-(s'il vous plaît tutoyez moi car je n'aime pas quand on me vouvoie)
+- 🧠 Interpréteur intelligent : gestion optimisée des requêtes utilisateur  
+- 📱 Multi-plateforme : Windows, macOS, Android (Pydroid 3 / Termux) et iOS  
+- 🧩 Modularité : ajout facile de nouveaux modules  
+- ⚡ Légèreté : faible consommation de ressources  
+
+---
+
+## 🛠️ Installation
+
+### 💻 PC
+git clone https://github.com/ton-repo/NayIA.git  
+cd NayIA  
+python NayIA-2.1.py  
+
+### 📱 Android
+1. Installer Pydroid 3  
+2. Copier les fichiers  
+3. Ouvrir main.py  
+4. Appuyer sur ▶️  
+
+---
+
+## 💻 IDE recommandés
+
+Android : Pydroid 3, PyCode  
+iOS : Pythonista 3, Pyto  
+Windows : VS Code, PyCharm  
+macOS : VS Code, PyCharm  
+
+---
+
+## 📁 Structure
+
+NayIA-2.1.py → fichier principal  
+modules/ → fonctionnalités  
+config.json → paramètres  
+
+---
+
+## 🚀 À venir
+
+- Interface graphique  
+- Commandes vocales  
+- Optimisation mémoire  
+
+---
+
+## 📝 Version
+
+Correction bugs + optimisation + compatibilité IDE  
+
+---
+
+## 👨‍💻 Auteurs
+
+Nayane Ahamadi  
+Lucas Dulard  
+
+---
+
+## 📄 Licence
+
+Early Access  
+CC BY-NC 4.0 prévu le 29 mai  
+
+---
+
+## 📫 Contact
+
+asponeproduction@gmail.com
